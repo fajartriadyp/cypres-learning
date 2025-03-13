@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Cypress output
+cypress/screenshots/
+cypress/videos/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
